@@ -3,8 +3,9 @@ package org.example;
 
 public class Main {
     public static void  main(String[] args) {
-        //System.out.println(isPalindrome ( -1281));
+       // System.out.println(isPalindrome ( -1281));
        // System.out.println(isPerfectNumber(10));
+       // System.out.println(isPalindrome(11212));
         System.out.println(numberToWords(123));
         System.out.println(numberToWords(1010));
         System.out.println(numberToWords(-12));
