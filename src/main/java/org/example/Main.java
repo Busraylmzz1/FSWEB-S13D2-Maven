@@ -6,6 +6,8 @@ public class Main {
         //System.out.println(isPalindrome ( -1281));
        // System.out.println(isPerfectNumber(10));
         System.out.println(numberToWords(123));
+        System.out.println(numberToWords(1010));
+        System.out.println(numberToWords(-12));
 
     }
 
